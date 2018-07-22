@@ -1,3 +1,14 @@
-.test {
-    color: red
+#carrie {
+    margin-top: 50px;
+    width: 200px; 
+    height: 200px; 
 }
+
+body {
+    background-color: gray;
+}
+
+.col-8 {
+    margin-top: 50px;
+}
+
